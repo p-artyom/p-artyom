@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello world 👋, my name is Artem! I am learning backend development with Python.
 
-<!--
-**p-artyom/p-artyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 I’m currently learning Python
 
-Here are some ideas to get you started:
+- 📨 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [Email](mailto:artem38skull@yandex.ru)
+
+  - [Telegram](https://t.me/p_artyoms)
+
+- 🛠 Languages and Tools:
+
+  - Python, Django, Django REST framework, PostgreSQL, Docker
+
+![](https://komarev.com/ghpvc/?username=p-artyom)
