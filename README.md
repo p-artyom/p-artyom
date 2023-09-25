@@ -7,6 +7,8 @@
   - [Email](mailto:artem38skull@yandex.ru)
 
   - [Telegram](https://t.me/p_artyoms)
+ 
+  - [Linkedin](https://www.linkedin.com/in/p-artyom/)
 
 - 🛠 Languages and Tools:
 
