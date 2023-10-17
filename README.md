@@ -12,6 +12,6 @@
 
 - 🛠 Languages and Tools:
 
-  - Python, Django, Django REST framework, PostgreSQL, Docker
+  - Python, Django, Django REST framework, PostgreSQL, Docker, Celery, Redis
 
 ![](https://komarev.com/ghpvc/?username=p-artyom)
