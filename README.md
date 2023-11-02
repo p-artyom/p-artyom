@@ -1,8 +1,8 @@
-## Hello world 👋, my name is Artem! I am learning backend development with Python.
+## Привет мир 👋, меня зовут Артем! Я изучаю бэкенд-разработку на Python.
 
-- 🐍 I’m currently learning Python
+- 🐍 В настоящее время я занимаюсь разработкой на Python;
 
-- 📨 How to reach me:
+- 📨 Как со мной связаться:
 
   - [Email](mailto:artem38skull@yandex.ru)
 
@@ -10,8 +10,8 @@
  
   - [Linkedin](https://www.linkedin.com/in/p-artyom/)
 
-- 🛠 Languages and Tools:
+- 🛠 Какие технологии использую:
 
-  - Python, Django, Django REST framework, PostgreSQL, Docker, Celery, Redis
+  - Python, Django, Django REST framework, PostgreSQL, Docker, Gunicorn, Nginx, Celery, Redis.
 
 ![](https://komarev.com/ghpvc/?username=p-artyom)
